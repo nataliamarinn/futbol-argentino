@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/        # HTML cacheado — puede pesar mucho
+data/*.db        # base de datos local
+data/futbol_arg.db
